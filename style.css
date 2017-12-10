@@ -1,18 +1,34 @@
-
 /* Classes */
 .content {
-    width: 500px;
+    width: 594px;
     margin: auto;
     padding:25px;
     align-self: center;
 }
 
 /* IDs */
-
+#mark1{
+  color: red;
+}
+#mark2{
+  color: blue;
+}
+#mark3{
+  color: green;
+}
+#mark4{
+  color: black;
+}
 /* Individual elements */
-
+mark{
+  background-color: #535456;
+}
 p{
-  
+  text-align: center;
+  max-width: 50%;
+  margin: auto;
+  padding:25px;
+  color: white;
 }
 
 h1{
@@ -32,7 +48,7 @@ header{
 footer{
   background-color: #535456;
   width:100%;
-  height:100px;
+
 }
 
 body{
